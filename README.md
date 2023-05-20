@@ -151,6 +151,13 @@ A transaction is a combination of some input and output. In our transaction, we 
 
 The correctness check of the transaction is under development.
 
+## Our public node
+
+I have setup a public node on:
+
+80.85.85.141:3008
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
