@@ -1,6 +1,6 @@
-[中文说明](https://github.com/Carlos-Zen/blockchain_python/blob/master/README_zh.md)
-
 # Blockchain-python
+
+Code made by Carlos-Zen!
 
 A blockchain implementation in Python only for study.
 
@@ -13,7 +13,7 @@ The verification based on cryptography has not yet been realized, and the verifi
 1. Make sure [Python 3.6+](https://www.python.org/downloads/) is installed. 
 2. Git Clone
 ```
-$ git clone https://github.com/Carlos-Zen/blockchain.git
+$ git clone https://github.com/thetruerailen/ReplCoin
 $ cd blockchain
 ```
 
